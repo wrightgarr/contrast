@@ -38,4 +38,4 @@ Bachelor of Commerce in Economics, 2015
 
 ## Professional Qualifications
 
-**Certified ScrumMaster®, Scrum Alliance**, Issued March 2025. Credential URL: https://bcert.me/sclsfdxap
+**Certified ScrumMaster®, Scrum Alliance**, Issued March 2025. Credential URL: <https://bcert.me/sclsfdxap>
