@@ -35,7 +35,7 @@ Bachelor of Commerce in Economics, 2015
 
 ## Publications
 
-[**"Does faster internet increase exports? Evidence from New Zealand"**]("https://wrightgarr.github.io/OECD Economics Department Working Papers No 1730.pdf") (with Lynda Sanderson & Naomitsu Yashiro)
+[**"Does faster internet increase exports? Evidence from New Zealand"**]("https://wrightgarr.github.io/OECD_Economics_Department_Working_Papers_No_1730.pdf") (with Lynda Sanderson & Naomitsu Yashiro)
 OECD Economics Department Working Papers 1730, OECD Publishing, 2022. 
 
 ## Other Research Contributions
