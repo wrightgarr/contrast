@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Home"
 ---
 
 Welcome, My name is Garrick! I hold a Master in Commerce in Economics from Victoria Universiy of Wellington. I have an academic interest in labour economics, behavioural economics, and the economics of climate change.
