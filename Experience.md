@@ -6,7 +6,7 @@ layout: page
 ## Contact Information
 
 
-**Email**: garrickwright@icloud.com
+**Email**: [garrickwright@icloud.com](mailto:garrickwright@icloud.com)
 
 
 ## Education
