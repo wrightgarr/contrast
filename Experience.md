@@ -16,7 +16,7 @@ layout: page
 
 Master of Commerce in Economics, 2019
 
-Bachelor of Commerce in Economics, 2015
+Bachelor of Commerce in Economics, 2017
 
 
 ## Professional Experience
